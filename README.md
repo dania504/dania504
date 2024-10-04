@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi 👋, I'm Dania Khalaf</h1>
-<h3 align="center">A passionate fullstack developer from Syria</h3>
+<h3 align="center">A passionate Front end developer from Syria</h3>
 <strong> I am a student at the Faculty of Information Engineering , I consider myself as fast learner, problem solver and and I enjoy challenging myself on a regular basis.<br>
 Setting goals, both personally and professionally, and working towards achieving them is something I find fulfilling.<br>
 
